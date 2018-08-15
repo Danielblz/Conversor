@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="moneda">Moneda</string>
+    <string name="peso">Peso</string>
+    <string name="euro">Euro</string>
+    <string name="dolar">Dolar</string>
+    <string name="convertira">Convertir a:</string>
+    <string name="equivalea">Equivale a</string>
+    <string name="equivale">Equivale a:</string>
+    <string name="calcular">Calcular</string>
+    <string name="rublo">Rublo</string>
+</resources>
